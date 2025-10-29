@@ -1,5 +1,6 @@
 # Dori_Cook_Portfolio
 Code from Undergraduate projects 
+
 Project #1 was in R and is therefore not in this repository 
 
 Project #2: Creating a ML model to predict equilibrium reactions 
